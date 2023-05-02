@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif">
 <h1 align="center">Hi 👋, I'm Fatima Nahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
