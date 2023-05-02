@@ -1,10 +1,4 @@
-### Hi there 👋
-
-**fatimanahd/fatimanahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi 👋, I'm Fatima nahid</h1>
+<h1 align="center">Hi 👋, I'm Fatima Nahid</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimanahd&label=Profile%20views&color=0e75b6&style=flat" alt="fatimanahd" /> </p>
